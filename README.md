@@ -29,5 +29,5 @@ Performed data cleaning, transformation, and visualization using bar plots, pie 
 
 ## Dashboard
 
-<img src="Bank%20Transction%20Dashboard.png" alt="Bank Transaction Dashboard" width="500"/>
+<img src="Bank%20Transction%20Dashboard.png" alt="Bank Transaction Dashboard" />
 
