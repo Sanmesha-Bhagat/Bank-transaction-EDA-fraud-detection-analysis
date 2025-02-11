@@ -26,3 +26,7 @@ Identified potential correlations between transaction amounts, locations, and ot
 ### Tools and Technologies Used
 Utilized Python with libraries like Pandas, Matplotlib, and Seaborn.
 Performed data cleaning, transformation, and visualization using bar plots, pie charts, heatmaps, and histograms.
+
+## Dashboard
+
+![Alt Text](Bank%20Transaction%20Dashboard.png)
